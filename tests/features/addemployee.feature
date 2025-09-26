@@ -18,8 +18,8 @@ Feature: Verify Add Employee functionalities
       Examples:
          | firstname | lastname |
          | Jagdish   | Rao      |
-         # | Raju      | G        |
-         # | Praveen   | Abc      |
+         | Raju      | G        |
+         | Praveen   | Abc      |
 
 
    Scenario: Verify Error Message for Mandatory Fields
